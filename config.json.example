@@ -1,0 +1,9 @@
+{
+    "email": "user@example.com",
+    "token": "123ABCD",
+    "base-url": "https://silverstripe.cloud/naut",
+    "projectID": "my-project-ID",
+    "envID": "TEST",
+    "defaultReferenceType": "branch",
+    "debug": false 
+}
